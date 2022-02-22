@@ -5,7 +5,7 @@ import {NavLink,
 const Navbar = () => {
     return (
         <div>
-  <Nav tabs>
+  <Nav tabs bg="dark">
     <NavItem>
       <NavLink
         active
@@ -14,22 +14,9 @@ const Navbar = () => {
         Home
       </NavLink>
     </NavItem>
-    
-    <NavItem>
-      <NavLink href="/about">
-        About
-      </NavLink>
-    </NavItem>
     <NavItem>
       <NavLink href="/projects">
        Projects
-      </NavLink>
-    </NavItem>
-    <NavItem>
-      <NavLink
-        href="/contact"
-      >
-        Contact
       </NavLink>
     </NavItem>
   </Nav>
