@@ -5,10 +5,9 @@ import {NavLink,
 const Navbar = () => {
     return (
         <div>
-  <Nav tabs bg="dark">
+  <Nav tabs >
     <NavItem>
       <NavLink
-        active
         href="/"
       >
         Home
@@ -17,6 +16,11 @@ const Navbar = () => {
     <NavItem>
       <NavLink href="/projects">
        Projects
+      </NavLink>
+    </NavItem>
+    <NavItem>
+      <NavLink href="/contact">
+       Contact
       </NavLink>
     </NavItem>
   </Nav>
