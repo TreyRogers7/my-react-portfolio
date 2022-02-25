@@ -1,5 +1,5 @@
 import React from "react";
-import Card from "../components/card";
+import Card from "../../components/card";
 import swab from "../assets/larger-logo.png";
 import comic from "../assets/comic.png";
 import employee from "../assets/employee.png";

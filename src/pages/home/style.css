@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+}
+
+.me{
+    background-color: rgba(52, 58, 63, 0.589) !important;
+    border-radius: 2% !important;
+    border: 2px solid black !important;
+    color: white
+}
