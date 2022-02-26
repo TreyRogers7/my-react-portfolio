@@ -2,7 +2,7 @@
 
 ## Description 
 
-![Gif](./assets/demo.png)
+![Gif](/src/assets/reactSC.png)
 
 [Deployed Application](https://ian-darland-react-portfolio.herokuapp.com/portfolio)
 
